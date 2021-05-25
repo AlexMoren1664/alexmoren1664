@@ -1,16 +1,29 @@
-### Hi there 👋
+### Всем привет! Меня зовут Александр! 👋
 
-<!--
-**AlexMoren1664/alexmoren1664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий front-end разработчик.
 
-Here are some ideas to get you started:
+Мой путь в web-разработку начался с Yandex.Praktikum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+На данный момент изучаю JavaScript и React
+
+Хочу развиваться и работать в команде с опытными колегами над крутыми проетами 🎯
+
+📫 email: alexMoren1664\@yandex.ru
+
+✉️ telegram: efim_gagin
+
+---
+
+
+![](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=npm)
+![](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=webpack)
+![](https://img.shields.io/badge/-Express.js-090909?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+<!-- ![](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
+![](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git) -->
