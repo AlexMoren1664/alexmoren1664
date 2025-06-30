@@ -1,4 +1,4 @@
-### Всем привет! Меня зовут Александр! 👋
+### Hello everyone! I'm Alexander👋
 
 📫 email: alexMoren1664\@yandex.ru
 
